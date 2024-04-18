@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Khaled</h1>
-<h3 align="center">frontend developer at 2B Company</h3>
+<h3 align="center">frontend Angular developer </h3>
 
 - 🌱 I’m currently learning **.Net Technologies**
 
