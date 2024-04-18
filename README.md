@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **.Net Technologies**
 
-- 💬 Ask me about **Html, Css, Js, Bootstrap, jQuery, typescript, Angular**
+- 💬 Ask me about **Html, Css, Js, Bootstrap, jQuery, typescript, Angular +2**
 
 - 📫 How to reach me **omar.khaled.saad.hasan**
 
