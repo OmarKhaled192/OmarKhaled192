@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Html, Css, Js, Bootstrap, jQuery, typescript, Angular +2**
 
-- 📫 How to reach me **omar.khaled.saad.hasan**
+- 📫 How to reach me **omar.khaled.saad.hasan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
